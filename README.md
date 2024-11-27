@@ -20,7 +20,13 @@
 
 ## Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Despee2k&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats"/><br/><br/>
-  <img src="https://visitcount.itsvg.in/api?id=Despee2k&icon=5&color=11)](https://visitcount.itsvg.in" alt="Profile Views"/>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Despee2k&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Despee2k&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" height="200"/>
+  </div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Despee2k&theme=github_dark_dimmed&hide_border=true" alt="GitHub Streak" width="50%"/>
+  <br/><br/>
+  <img src="https://visitcount.itsvg.in/api?id=Despee2k&icon=0&color=0)](https://visitcount.itsvg.in" alt="Profile Views" />
 </div>
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
